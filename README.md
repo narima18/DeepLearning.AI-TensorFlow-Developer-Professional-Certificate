@@ -1,7 +1,7 @@
 # DeepLearning.AI TensorFlow Developer Professional Certificate
 ![DL](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/assets/74022076/0b180dc5-8273-45b9-bf28-f7bd2f0cee31)
 
-[Coursera - DeepLearning.AI TensorFlow Developer Professional Certificate]([https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/professional-certificates/tensorflow-in-practice)https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+[Coursera - DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
 
 ## Certificate Info
