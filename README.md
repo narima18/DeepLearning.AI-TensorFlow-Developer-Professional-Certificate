@@ -34,10 +34,10 @@ Google TensorFlow Certificate exam and bring you one step closer to achieving th
 
 ## Course 2 : [Convolutional Neural Networks in TensorFlow](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/ac5c3666b3e07ca9e627b12210ee7c8ddc7f06d8/Convolutional%20Neural%20Networks%20in%20TensorFlow)
 > What you'll learn:    
-> - Learn new concepts from industry experts  
-> - Gain a foundational understanding of a subject or tool  
-> - Develop job-relevant skills with hands-on projects  
-> - Earn a shareable career certificate from DeepLearning.AI
+> - Handle real-world image data  
+> - Plot loss and accuracy  
+> - Explore strategies to prevent overfitting, including augmentation and dropout  
+> - Learn transfer learning and how learned features can be extracted from models
 
 - [<b> Week 1 </b> ](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/ac5c3666b3e07ca9e627b12210ee7c8ddc7f06d8/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201)
   - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/ac5c3666b3e07ca9e627b12210ee7c8ddc7f06d8/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201/Quiz%201)
@@ -45,6 +45,27 @@ Google TensorFlow Certificate exam and bring you one step closer to achieving th
 - [<b> Week 2 </b> ](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/ac5c3666b3e07ca9e627b12210ee7c8ddc7f06d8/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202)
   - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/59e50e083a7a6c6599876314dcf7fe0765306264/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202/Quiz%201)
   - [Assignment 1: Tackle Overfitting with Data Augmentation](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/59e50e083a7a6c6599876314dcf7fe0765306264/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202/C2W2_Assignment)
+- [<b> Week 3 </b> ](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/ef1267865e247062947b7c92fb1f3f1a62fdd570/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203)
+  - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/ef1267865e247062947b7c92fb1f3f1a62fdd570/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203/Quiz%201)
+  - [Assignment 1: Transfer Learning](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/ef1267865e247062947b7c92fb1f3f1a62fdd570/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203/C2W3_Assignment.ipynb)    
+- [<b> Week 4 </b> ](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/ef1267865e247062947b7c92fb1f3f1a62fdd570/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204)
+  - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/ef1267865e247062947b7c92fb1f3f1a62fdd570/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204/Quiz%201)
+  - [Assignment 1: Multi-class Classification](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/ef1267865e247062947b7c92fb1f3f1a62fdd570/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204/C2W4_Assignment.ipynb)
+<hr/>
+
+## Course 3 : [Natural Language Processing in TensorFlow](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/1a8f4cf8061bfa988b43fed0952ee3e35625a3ae/Natural%20Language%20Processing%20in%20TensorFlow)
+> What you'll learn:    
+> - Build natural language processing systems using TensorFlow  
+> - Process text, including tokenization and representing sentences as vectors  
+> - Apply RNNs, GRUs, and LSTMs in TensorFlow  
+> - Train LSTMs on existing text to create original poetry and more
+
+- [<b> Week 1 </b> ](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/1a8f4cf8061bfa988b43fed0952ee3e35625a3ae/Natural%20Language%20Processing%20in%20TensorFlow/Week%201)
+  - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/1a8f4cf8061bfa988b43fed0952ee3e35625a3ae/Natural%20Language%20Processing%20in%20TensorFlow/Week%201/Quiz%201)
+  - [Assignment 1: Explore the BBC News archive](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/1a8f4cf8061bfa988b43fed0952ee3e35625a3ae/Natural%20Language%20Processing%20in%20TensorFlow/Week%201/C3W1_Assignment)
+- [<b> Week 2 </b> ](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/1a8f4cf8061bfa988b43fed0952ee3e35625a3ae/Natural%20Language%20Processing%20in%20TensorFlow/Week%202)
+  - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/1a8f4cf8061bfa988b43fed0952ee3e35625a3ae/Natural%20Language%20Processing%20in%20TensorFlow/Week%202/Quiz%201)
+  - [Assignment 1: Diving deeper into the BBC News archive](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/1a8f4cf8061bfa988b43fed0952ee3e35625a3ae/Natural%20Language%20Processing%20in%20TensorFlow/Week%202/C3W2_Assignment)
 - [<b> Week 3 </b> ](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/ef1267865e247062947b7c92fb1f3f1a62fdd570/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203)
   - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/ef1267865e247062947b7c92fb1f3f1a62fdd570/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203/Quiz%201)
   - [Assignment 1: Transfer Learning](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/ef1267865e247062947b7c92fb1f3f1a62fdd570/Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203/C2W3_Assignment.ipynb)    
