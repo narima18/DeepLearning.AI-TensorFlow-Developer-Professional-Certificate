@@ -73,3 +73,24 @@ Google TensorFlow Certificate exam and bring you one step closer to achieving th
   - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/35a85b9805a4c397950efd4bc04f041f33de7de1/Natural%20Language%20Processing%20in%20TensorFlow/Week%204/Quiz%201)
   - [Assignment 1: Predicting the next word](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/35a85b9805a4c397950efd4bc04f041f33de7de1/Natural%20Language%20Processing%20in%20TensorFlow/Week%204/C3W4_Assignment)
 <hr/>
+
+## Course 4 : [Sequences, Time Series and Prediction](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/82264ea3e455cd74178b89152a3885ffeca38f1b/Sequences%2C%20Time%20Series%20and%20Prediction)
+> What you'll learn:    
+> - Solve time series and forecasting problems in TensorFlow  
+> - Prepare data for time series learning using best practices  
+> - Explore how RNNs and ConvNets can be used for predictions  
+> - Build a sunspot prediction model using real-world data
+
+- [<b> Week 1 </b> ](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/82264ea3e455cd74178b89152a3885ffeca38f1b/Sequences%2C%20Time%20Series%20and%20Prediction/Week%201)
+  - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/82264ea3e455cd74178b89152a3885ffeca38f1b/Sequences%2C%20Time%20Series%20and%20Prediction/Week%201/Quiz%201)
+  - [Assignment 1: Working with time series](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/82264ea3e455cd74178b89152a3885ffeca38f1b/Sequences%2C%20Time%20Series%20and%20Prediction/Week%201/C4W1_Assignment)
+- [<b> Week 2 </b> ](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/82264ea3e455cd74178b89152a3885ffeca38f1b/Sequences%2C%20Time%20Series%20and%20Prediction/Week%202)
+  - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/82264ea3e455cd74178b89152a3885ffeca38f1b/Sequences%2C%20Time%20Series%20and%20Prediction/Week%202/Quiz%201)
+  - [Assignment 1: Predicting time series](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/82264ea3e455cd74178b89152a3885ffeca38f1b/Sequences%2C%20Time%20Series%20and%20Prediction/Week%202/C4W2_Assignment)
+- [<b> Week 3 </b> ](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/a5fdf857dcc5d4c9c973546623d1c930c8395147/Natural%20Language%20Processing%20in%20TensorFlow/Week%203)
+  - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/a5fdf857dcc5d4c9c973546623d1c930c8395147/Natural%20Language%20Processing%20in%20TensorFlow/Week%203/Quiz%201)
+  - [Assignment 1: Exploring Overfitting in NLP](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/a5fdf857dcc5d4c9c973546623d1c930c8395147/Natural%20Language%20Processing%20in%20TensorFlow/Week%203/C3W3_Assignment)    
+- [<b> Week 4 </b> ](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/35a85b9805a4c397950efd4bc04f041f33de7de1/Natural%20Language%20Processing%20in%20TensorFlow/Week%204)
+  - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/35a85b9805a4c397950efd4bc04f041f33de7de1/Natural%20Language%20Processing%20in%20TensorFlow/Week%204/Quiz%201)
+  - [Assignment 1: Predicting the next word](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/35a85b9805a4c397950efd4bc04f041f33de7de1/Natural%20Language%20Processing%20in%20TensorFlow/Week%204/C3W4_Assignment)
+<hr/>
