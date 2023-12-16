@@ -93,4 +93,3 @@ Google TensorFlow Certificate exam and bring you one step closer to achieving th
 - [<b> Week 4 </b> ](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/dbfb3b40c61ad9dd780bd5cf7843c0e8d507bd07/Sequences%2C%20Time%20Series%20and%20Prediction/Week%204)
   - [Quiz 1](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/dbfb3b40c61ad9dd780bd5cf7843c0e8d507bd07/Sequences%2C%20Time%20Series%20and%20Prediction/Week%204/Quiz%201)
   - [Assignment 1: Using real world data](https://github.com/narima18/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/dbfb3b40c61ad9dd780bd5cf7843c0e8d507bd07/Sequences%2C%20Time%20Series%20and%20Prediction/Week%204/C4W4_Assignment)
-<hr/>
